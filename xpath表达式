@@ -1,0 +1,18 @@
+
+
+
+
+
+帖子链接表达式：
+//div[@class="t_con cleafix"]/div/div/div/a/@href
+
+
+
+
+图片链接表达式：
+//div[@class="d_post_content j_d_post_content "]/img[@class="BDE_Image"]/@src
+
+
+一个帖子中视频xpath表达式：
+//video/@src
+
